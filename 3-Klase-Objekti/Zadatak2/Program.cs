@@ -62,7 +62,7 @@ namespace zadatak_2
                     {
                         Ime = ime,
                         Prezime = prezime,
-                        Oib = oib
+                        Oib = oib,
                         BrojMjesta = 24 // fiksno postavljeno na 24
                     });
 
