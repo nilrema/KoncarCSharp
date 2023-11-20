@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace zadatak_1.Models
+namespace zadatak_2.Models
 {
     // Klasa Ucionica predstavlja model učionice sa svojim svojstvima.
     internal class Ucionica
