@@ -45,7 +45,8 @@ namespace zadatak_2
                 {
                     Kat = kat,
                     Broj = broj,
-                    Racunala = racunala.Value
+                    Racunala = racunala.Value,
+                    BrojMjesta = 24 // fiksno postavljeno na 24
                 };
                 do
                 { 
@@ -62,8 +63,7 @@ namespace zadatak_2
                     {
                         Ime = ime,
                         Prezime = prezime,
-                        Oib = oib,
-                        BrojMjesta = 24 // fiksno postavljeno na 24
+                        Oib = oib
                     });
 
                     Console.Write("Želite li unijeti još polaznika? (d/n): "); // Upit za nastavak unosa
